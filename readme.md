@@ -7,6 +7,9 @@ Tube Search is an application that allows users to search for and watch YouTube 
 npx babel . --out-dir compiled --presets=@babel/preset-react --ignore=node_modules,compiled --source-maps inline
 * live-server
 
+Demo: 
+
+![](https://rei-bucket-fec.s3-us-west-1.amazonaws.com/Tube+Search.gif)
 
 ## Ultimate Goal
 
