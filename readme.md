@@ -1,6 +1,6 @@
 # Tube Search
 
-Tube Search is an application that allows users to search for and watch YouTube videos directly from the application.  This repo comes from a Hack Reactor project I worked on with a Pair Programmer.  This was my first attempt at working with React and external APIs.
+Tube Search is an application that allows users to search for and watch YouTube videos directly from the application.  This repo comes from a Hack Reactor project I worked on with a Pair Programmer. Worked with React and external APIs for this application.
 
 ## Setup
 * run the babel command:
